@@ -1,10 +1,10 @@
-## 🎈 is-sf-over
+## 🎈 is-sf-back
 
 🎈 [Made with PartyKit](https://docs.partykit.io)
 
 Idea and code from [is-it-over](https://is-it-over.jevakallio.partykit.dev/).
 
-https://is-sf-over.cconeill.partykit.dev/
+https://is-sf-back.cconeill.partykit.dev
 
 ## What's in there
 
