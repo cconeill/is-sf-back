@@ -4,6 +4,10 @@
   "compatibilityDate": "2023-10-13",
   "serve": {
     "path": "public",
-    "build": "src/client.ts"
+    "build": {
+      "loader": {
+        ".png": "file"
+      }
+    }
   }
 }
