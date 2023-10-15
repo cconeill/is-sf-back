@@ -20,7 +20,10 @@ body {
   overflow-x: hidden; 
   margin: 0;
   padding: 0;
-  background-image: url("/public/goldengate.png");
+  background-image: url("goldengate.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 html {

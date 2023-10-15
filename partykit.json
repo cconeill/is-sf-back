@@ -5,6 +5,7 @@
   "serve": {
     "path": "public",
     "build": {
+      "entry": "src/client.ts",
       "loader": {
         ".png": "file"
       }
